@@ -1,0 +1,51 @@
+*, 
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 100%;
+}
+
+
+/* Sweet Alerts Styles */
+.container {
+  text-align: center;
+  margin: 200px 100px;
+}
+
+.sweet-btn {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  padding: 1rem 3rem;
+  background-color: rgba(34, 167, 240, 0.7);
+  border: 0;
+  font-weight: bold;
+}
+
+.sweet-btn:hover {
+  background-color: rgba(34, 167, 240, 1);
+  cursor: pointer;
+}
+
+
+/* Waypoints Styles */
+.waypoints-container {
+  max-width: 35rem;
+  margin: 0 auto;
+  font-size: 1.5rem;
+  line-height: 1.35;
+}
+
+.waypoints-container section {
+  border: 8px solid #3A539B;
+  margin: 2rem 0;
+  padding: 1rem;
+}
+
