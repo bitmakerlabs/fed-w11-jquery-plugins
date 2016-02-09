@@ -1,4 +1,4 @@
-*, 
+*,
 *:before,
 *:after {
   box-sizing: inherit;
@@ -49,3 +49,12 @@ html, body {
   padding: 1rem;
 }
 
+/* Drills styles */
+.plugs-drill {
+  margin-top: 30px;
+}
+
+#image-slider {
+  width: 600px;
+  margin: auto;
+}
