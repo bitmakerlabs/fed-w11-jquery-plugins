@@ -54,6 +54,11 @@ html, body {
   margin-top: 30px;
 }
 
+.plugs-drill.container {
+  width: 720px;
+  margin: 30px auto;
+}
+
 #image-slider {
   width: 600px;
   margin: auto;
